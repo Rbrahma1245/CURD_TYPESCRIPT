@@ -1,0 +1,45 @@
+.home-container {
+    margin-left: 200px;
+    margin-top: 50px;
+    /* border: 2px solid black; */
+    display: flex;
+}
+
+.card-container {
+    /* border: 2px solid black; */
+    margin-top: 0;
+}
+
+.form-container {
+    margin-left: 20px;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin-top: 0;
+}
+
+
+
+.card {
+    width: 400px;
+    display: flex;
+    height: 90px;
+    justify-content: space-between;
+    text-align: center;
+    background: rgb(246, 196, 204);
+    margin-top: 5px;
+    /* border: 2px solid black; */
+
+}
+
+
+.card-details {
+    /* border: 2px solid black; */
+    margin-top: 5px;
+    margin-left: 30px;
+    text-align: left;
+
+}
+
+.btn-box {
+    margin-top: 20px;
+}

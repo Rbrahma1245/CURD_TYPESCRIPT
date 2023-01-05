@@ -1,0 +1,37 @@
+.userInput {
+    width: 60%;
+    font-size: 15px;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing: border-box;
+}
+
+
+.addButton {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.addButton:hover {
+    background: #0b8558;
+}
+
+.toggleEditButton {
+    background-color: #444dd0;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.radio-form {
+    margin-top: 20px;
+}
